@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7234e6dc.chunk.css",
-    "main.js": "/static/js/main.e9cf122c.chunk.js",
-    "main.js.map": "/static/js/main.e9cf122c.chunk.js.map",
+    "main.css": "/static/css/main.ebdda389.chunk.css",
+    "main.js": "/static/js/main.0e2d9a6e.chunk.js",
+    "main.js.map": "/static/js/main.0e2d9a6e.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.06565635.chunk.css": "/static/css/2.06565635.chunk.css",
     "static/js/2.dd021a13.chunk.js": "/static/js/2.dd021a13.chunk.js",
     "static/js/2.dd021a13.chunk.js.map": "/static/js/2.dd021a13.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5260202a0453954f3172c7a506c44468.js": "/precache-manifest.5260202a0453954f3172c7a506c44468.js",
+    "precache-manifest.e819d726a58796d4e3e36ec714fade88.js": "/precache-manifest.e819d726a58796d4e3e36ec714fade88.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.06565635.chunk.css.map": "/static/css/2.06565635.chunk.css.map",
-    "static/css/main.7234e6dc.chunk.css.map": "/static/css/main.7234e6dc.chunk.css.map",
+    "static/css/main.ebdda389.chunk.css.map": "/static/css/main.ebdda389.chunk.css.map",
     "static/media/konstantin_zlatkov_cv_2019.pdf": "/static/media/konstantin_zlatkov_cv_2019.b5cae150.pdf",
     "static/media/profile-image.jpg": "/static/media/profile-image.98f308e7.jpg"
   }
