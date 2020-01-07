@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4de784b7.chunk.css",
-    "main.js": "/static/js/main.94942c30.chunk.js",
-    "main.js.map": "/static/js/main.94942c30.chunk.js.map",
+    "main.js": "/static/js/main.483c2044.chunk.js",
+    "main.js.map": "/static/js/main.483c2044.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.06565635.chunk.css": "/static/css/2.06565635.chunk.css",
     "static/js/2.3c57177e.chunk.js": "/static/js/2.3c57177e.chunk.js",
     "static/js/2.3c57177e.chunk.js.map": "/static/js/2.3c57177e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dbea9b3aeccfd1f07ce3b236c2c9d894.js": "/precache-manifest.dbea9b3aeccfd1f07ce3b236c2c9d894.js",
+    "precache-manifest.a2aae3c32b3f127546759db40abfb87e.js": "/precache-manifest.a2aae3c32b3f127546759db40abfb87e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.06565635.chunk.css.map": "/static/css/2.06565635.chunk.css.map",
     "static/css/main.4de784b7.chunk.css.map": "/static/css/main.4de784b7.chunk.css.map",
-    "static/media/konstantin_zlatkov_cv_2019.pdf": "/static/media/konstantin_zlatkov_cv_2019.96d57651.pdf",
+    "static/media/konstantin_zlatkov_cv_2019.pdf": "/static/media/konstantin_zlatkov_cv_2019.2f012167.pdf",
     "static/media/profile-image.jpg": "/static/media/profile-image.d75cbebf.jpg"
   }
 }
